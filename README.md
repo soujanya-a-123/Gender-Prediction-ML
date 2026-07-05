@@ -116,6 +116,8 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshot
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/36f957b0-61bd-42a4-ac2c-3dc7951dca3a" />
+
 
 ---
 
